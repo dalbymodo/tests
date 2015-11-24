@@ -1,4 +1,4 @@
-#tests
+#tests in MOdo's second fork
 
 (these notes are windows-specific).
 
